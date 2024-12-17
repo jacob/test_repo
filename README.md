@@ -1,2 +1,4 @@
 # test_repo
-Test configuration settings
+
+This is an example repo made to check some configuration options for github setup.
+
